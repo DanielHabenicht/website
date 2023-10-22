@@ -59,7 +59,7 @@ The setup of Traefik is relatively straight-forward. Most of the settings remain
 Continue to section 12, and select **Next**. Traefik will now be installed.
 After installation you can access the Traefik dashboard using your host IP address followed by `:9000`, or by simply clicking "Web Portal" on the application's entry under **Apps** > **Installed Applications**.
 
-To access the TrueNAS Web Portal via Traefik follow [this guide](/manual/SCALE/guides/truenas-web-gui-via-traefik)
+To access the TrueNAS Web Portal via Traefik follow [this guide](/manual/SCALE/guides/truenas-web-gui-via-traefik).
 
 ## Video Guide
 
